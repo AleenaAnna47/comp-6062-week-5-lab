@@ -2,8 +2,6 @@ console.log('Scripts loaded!');
 
 
 
-
-
 let a = parseFloat(prompt('Enter Number for a'));
 let b = parseFloat(prompt('Enter Number for b'));
 
@@ -50,7 +48,6 @@ console.log(`isLessThan: ${isLessThan}`);
 console.log(`isLessOrEqual: ${isLessOrEqual}`);
 console.log(`andResult: ${andResult}`);
 console.log(`orResult: ${orResult}`);
-
 
 // Step 2: Use equality and inequality operators to compare the variables.
 // Example: let isEqual;
